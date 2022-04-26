@@ -1,5 +1,5 @@
 title: Arthur's webpage
-description: My personal website
+# description: My personal website
 logo: /assets/mypic.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
