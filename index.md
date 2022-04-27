@@ -9,7 +9,7 @@ I'm a Ph.D. student at [Université Côte d'Azur](https://univ-cotedazur.eu/) in
 
 ## Interests/Experience
 
-I hold a major in Mathematics and a Masters in Combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
+I hold a major in Mathematics and a master's degree in Combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
 There I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
 I took part on a *neuromorphic computing* project while working for [Hewlett Packard Enterprise](https://www.hpe.com/). <!-- and in a *3D printing* project while working for [HP Inc](https://www.hp.com/). -->
 My ongoing Ph.D. is about *neural network pruning*. More broadly we are interested in increasing the efficiency of neural networks.
@@ -17,7 +17,7 @@ My ongoing Ph.D. is about *neural network pruning*. More broadly we are interest
 
 ## Publications
 
-* da Cunha, A., Natale, E. and Viennot, L., 2022, April. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In International Conference on Learning Representations. [OpenReview](https://openreview.net/forum?id=Vjki79-619-)
+* da Cunha, A., Natale, E. and Viennot, L., 2022, April. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations*. [OpenReview](https://openreview.net/forum?id=Vjki79-619-)
 
 
 ## Patents
