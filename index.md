@@ -17,6 +17,8 @@ My ongoing Ph.D. is about *neural network pruning*. More broadly we are interest
 
 ## Publications
 
+* da Cunha, A., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2022, April. Revisiting the Random Subset Sum problem. *Research Report*. [HAL](https://hal.archives-ouvertes.fr/hal-03654720)
+
 * da Cunha, A., Natale, E. and Viennot, L., 2022, April. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations*. [OpenReview](https://openreview.net/forum?id=Vjki79-619-)
 
 
