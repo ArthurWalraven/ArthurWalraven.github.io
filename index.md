@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Arthur C. W. da Cunha
-
 I'm a Ph.D. candidate at [Université Côte d'Azur](https://univ-cotedazur.eu/) under the supervision of [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
 I'm a member of [COATI](https://team.inria.fr/coati/), a joint project-team between [Inria centre
