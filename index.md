@@ -27,7 +27,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 ## Patents
 
-* Da Cunha, A.C.W., Natale, E., Viennot, L., Institut national de recherche en sciences et technologies du numérique, 2022. *Résistance équivalente modulable à partir de résistances imprécises (Programmable equivalent resistances from imprecise resistors)*. France Patent deposit n°FR2210217.
+* Da Cunha, A.C.W., Natale, E., Viennot, L., Institut national de recherche en sciences et technologies du numérique, 2022. *Résistance équivalente modulable à partir de résistances imprécises (programmable equivalent resistances from imprecise resistors)*. France Patent deposit n°FR2210217.
 
 * Ambrosi, J.C., Da Cunha, A.C.W. and Cavalcante, J.R.A., Hewlett Packard Enterprise Development LP, 2021. *System for a flexible conductance crossbar*. U.S. Patent 11,200,948. [Google Patents](https://patents.google.com/patent/US11200948B1)
 
