@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a Ph.D. candidate at [Inria](https://www.inria.fr/fr) under the supervision of [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
+I'm a Ph.D. candidate at [Inria](https://www.inria.fr/fr) under the supervision of Prof. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
 I'm a member of [COATI](https://team.inria.fr/coati/), a joint project-team between [Inria centre
 at Université Côte d’Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en).
