@@ -24,6 +24,8 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 * da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2022. Revisiting the Random Subset Sum problem. *31st Annual European Symposium on Algorithms (ESA)*. [LIPIcs](10.4230/LIPIcs.ESA.2023.37)
 
+* da Cunha, A.C.W., Natale, E. and Viennot, L., 2023. Neural Network Information Leakage Through Hidden Learning. In *International Conference on Optimization and Learning (OLA)*. [HAL](https://hal.science/hal-03157141v4/file/hidden_learning.pdf)
+
 
 ## Patents
 
