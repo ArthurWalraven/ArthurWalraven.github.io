@@ -21,7 +21,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 * da Cunha, A., d'Amore, F. and Natale, E., 2023. Convolutional neural networks contain structured strong lottery tickets. In *Conference on Neural Information Processing Systems (NeurIPS)*. [OpenReview](https://openreview.net/pdf?id=UqYrYB3dp5)
 
-* da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2022. Revisiting the Random Subset Sum problem. *European Symposium on Algorithms (ESA)*. [LIPIcs](10.4230/LIPIcs.ESA.2023.37)
+* da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2023. Revisiting the Random Subset Sum problem. *European Symposium on Algorithms (ESA)*. [LIPIcs](10.4230/LIPIcs.ESA.2023.37)
 
 * da Cunha, A., Natale, E. and Viennot, L., 2022. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations (ICLR)*. [OpenReview](https://openreview.net/pdf?id=Vjki79-619-)
 
