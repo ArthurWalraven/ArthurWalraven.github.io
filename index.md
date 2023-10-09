@@ -2,16 +2,17 @@
 layout: default
 ---
 
-I'm a Ph.D. candidate at [Inria](https://www.inria.fr/fr) under the supervision of Prof. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
+I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), headed by [Kasper Green Larsen](https://cs.au.dk/~larsen/), at the [Department of Computer Science at Aarhus University](https://cs.au.dk/).
 
-I'm a member of [COATI](https://team.inria.fr/coati/), a joint project-team between [Inria centre
-at Université Côte d’Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en).
+I did my Ph.D. at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
 
 ## Interests/Experience
 
-I currently do research on *neural network pruning*. More broadly we are interested in increasing the efficiency of neural networks.
-I hold a major in Mathematics and a master's degree in Combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
+I'm interested in understanding large complex systems, usually through probabilistic methods.
+Currently, I mainly do research in *theoretical computer science*, particularly in the areas of *machine learning* and *algorithms*. 
+
+I hold a major in mathematics and a master's degree in combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
 There I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
 I took part on a *neuromorphic computing* project while working for [Hewlett Packard Enterprise](https://www.hpe.com/). <!-- and in a *3D printing* project while working for [HP Inc](https://www.hp.com/). -->
 
