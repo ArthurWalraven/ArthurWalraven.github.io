@@ -20,7 +20,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 * Becchetti, L., da Cunha, A.C.W., Clementi, A., d'Amore, F., Lesfari, H., Natale, E. and Trevisan, L., 2022. On the Multidimensional Random Subset Sum Problem. *Research Report*. [ArXiv](https://arxiv.org/pdf/2207.13944.pdf)
 
-* da Cunha, A., Natale, E. and Viennot, L., 2022. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations (ICLR)*. [OpenReview](https://openreview.net/forum?id=Vjki79-619-)
+* da Cunha, A., Natale, E. and Viennot, L., 2022. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations (ICLR)*. [OpenReview](https://openreview.net/pdf?id=Vjki79-619-)
 
 * da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2022. Revisiting the Random Subset Sum problem. *European Symposium on Algorithms (ESA)*. [LIPIcs](10.4230/LIPIcs.ESA.2023.37)
 
