@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), headed by [Kasper Green Larsen](https://cs.au.dk/~larsen/) at the [Department of Computer Science at Aarhus University](https://cs.au.dk/).
+I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), headed by Prof. [Kasper Green Larsen](https://cs.au.dk/~larsen/) at the [Department of Computer Science at Aarhus University](https://cs.au.dk/).
 
 I did my Ph.D. at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
