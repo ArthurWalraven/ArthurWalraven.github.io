@@ -4,13 +4,14 @@ layout: default
 
 I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), headed by Prof. [Kasper Green Larsen](https://cs.au.dk/~larsen/) at the [Department of Computer Science at Aarhus University](https://cs.au.dk/).
 
-I did my Ph.D. at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
+I did my Ph.D. at [Inria centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
 
 ## Interests/Experience
 
 I'm interested in understanding large complex systems, usually through probabilistic methods.
-Currently, I mainly do research in *theoretical computer science*, particularly in the areas of *machine learning* and *algorithms*. 
+Currently, I mainly do research in the theory of *machine learning*, particularly *(statistical) learning theory* and *deep learning*.
+I'm also interested in many empirical fields such as *analogue computing* (specially *neuromorphic computing*), *high-performance computing*, and I like coding in general.
 
 I hold a major in mathematics and a master's degree in combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
 There I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
