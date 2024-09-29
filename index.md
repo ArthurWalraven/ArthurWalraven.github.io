@@ -9,9 +9,10 @@ I did my Ph.D. at [Inria centre at Université Côte d'Azur](https://www.inria.f
 
 ## Interests/Experience
 
-I'm interested in understanding large complex systems, usually through probabilistic methods.
-Currently, I mainly do research in the theory of *machine learning*, particularly *(statistical) learning theory* and *deep learning*.
-I'm also interested in many empirical fields such as *analogue computing* (specially *neuromorphic computing*), *high-performance computing*, and I like coding in general.
+I'm interested in understanding large, complex systems, typically through probabilistic methods.
+Currently, my research focuses on the theory of *machine learning*, particularly *(statistical) learning theory* and *deep learning*.
+I'm also interested in the empirical aspects of many fields, ranging from *analogue computing* to *high-performance computing*.
+In particular, I enjoy coding; at all levels: From algorithm design to low-level optimizations.
 
 I hold a major in mathematics and a master's degree in combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
 There I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
