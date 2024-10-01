@@ -47,4 +47,4 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 ## Peer review service
 
-* Reviewer for SEA21, AAAI22, ICLR22, NeurIPS23, STOC24, NeurIPS24, SODA25, ICLR25 (*invited*)
+* Reviewer for SEA21, AAAI22, ICLR22, NeurIPS23, STOC24, NeurIPS24, SODA25, ICLR25 (*invited*), AISTATS25 (*invited*)
