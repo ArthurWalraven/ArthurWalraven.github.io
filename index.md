@@ -6,6 +6,8 @@ I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Lea
 
 I did my Ph.D. at [Inria centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
+<span style="color:red">I'm on the 2025 job market.</span>
+
 
 ## Interests/Experience
 
@@ -23,7 +25,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 * da Cunha, A., Høgsgaard, M.M. and Larsen, K.G., 2024. Optimal Parallelization of Boosting. (Oral presentation) In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2408.16653)
 
-* da Cunha, A., Larsen, K.G., and Ritzert, M., 2024. Boosting, Voting Classifiers and Randomized Sample Compression Schemes. *Preprint*. [ArXiv](https://arxiv.org/pdf/2402.02976)
+* da Cunha, A., Larsen, K.G., and Ritzert, M., 2024. Boosting, Voting Classifiers and Randomized Sample Compression Schemes. In *International Conference on Algorithmic Learning Theory (ALT)*. [ArXiv](https://arxiv.org/pdf/2402.02976)
 
 * da Cunha, A., d'Amore, F. and Natale, E., 2023. Convolutional neural networks contain structured strong lottery tickets. In *Conference on Neural Information Processing Systems (NeurIPS)*. [OpenReview](https://openreview.net/pdf?id=UqYrYB3dp5)
 
