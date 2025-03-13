@@ -23,7 +23,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 ## Publications
 
-* da Cunha, A., Høgsgaard, M.M. and Larsen, K.G., 2024. Optimal Parallelization of Boosting. (Oral presentation) In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2408.16653)
+* da Cunha, A., Høgsgaard, M.M. and Larsen, K.G., 2024. Optimal Parallelization of Boosting. (**Oral presentation**) In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2408.16653)
 
 * da Cunha, A., Larsen, K.G., and Ritzert, M., 2024. Boosting, Voting Classifiers and Randomized Sample Compression Schemes. In *International Conference on Algorithmic Learning Theory (ALT)*. [ArXiv](https://arxiv.org/pdf/2402.02976)
 
