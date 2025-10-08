@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm a Postdoc in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), headed by Prof. [Kasper Green Larsen](https://cs.au.dk/~larsen/) at [Aarhus University (Department of Computer Science)](https://cs.au.dk/).
+I'm a postdoctoral researcher in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), led by Prof. [Kasper Green Larsen](https://cs.au.dk/~larsen/) at [Aarhus University (Department of Computer Science)](https://cs.au.dk/).
 
-I did my Ph.D. at [Inria centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (concluded in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
+I did my PhD at the [Inria centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (completed in 2023) under the supervision of Dr. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/).
 
 <span style="color:red">I'm on the 2025 job market.</span>
 
@@ -14,11 +14,11 @@ I did my Ph.D. at [Inria centre at Université Côte d'Azur](https://www.inria.f
 I'm interested in understanding large, complex systems, typically through probabilistic methods.
 Currently, my research focuses on the theory of *machine learning*, particularly *(statistical) learning theory* and *deep learning*.
 I'm also interested in the empirical aspects of many fields, ranging from *analogue computing* to *high-performance computing*.
-In particular, I enjoy coding; at all levels: From algorithm design to low-level optimizations.
+In particular, I have a taste for coding; at all levels: From algorithm design to low-level optimisations.
 
 I hold a major in mathematics and a master's degree in combinatorics from [Universidade Federal do Ceará](https://www.ufc.br/).
-There I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
-I took part on a *neuromorphic computing* project while working for [Hewlett Packard Enterprise](https://www.hpe.com/). <!-- and in a *3D printing* project while working for [HP Inc](https://www.hp.com/). -->
+There, I worked with Prof. [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/) on *extremal and probabilistic combinatorics*.
+I took part in a *neuromorphic computing* project while working at [Hewlett Packard Enterprise](https://www.hpe.com/). <!-- and in a *3D printing* project while working for [HP Inc](https://www.hp.com/). -->
 
 
 ## Publications
@@ -49,6 +49,6 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 * Aguiar, G.D.S., Silveira, F.P., Lee, E.S., Antunes, R.J.D.R., Souza, J.G.D.C.E., Foltin, M., Cavalcante, J.R.A., Leite, L., Cunha, A.C.W.D., Frazao, M.V., Trajano, A.F.R., Hewlett Packard Enterprise Development LP, 2022. *SYSTEM AND METHOD FOR PROCESSING CONVOLUTIONS ON CROSSBAR-BASED NEURAL NETWORK ACCELERATORS FOR INCREASED INFERENCE THROUGHPUT*. U.S. Patent Application 17/027,628. [Google Patents](https://patents.google.com/patent/US20220092393A1)
 
 
-## Peer review service
+## Peer-review service
 
 * Reviewer for SEA21, AAAI22, ICLR22, NeurIPS23, STOC24, NeurIPS24, SODA25, ICLR25 (*invited*), AISTATS25 (*invited*), NeurIPS25
