@@ -23,7 +23,7 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 ## Publications
 
-* da Cunha, A., Høgsgaard, M.M., Paudice, A., Sun, Y., 2025. Revisiting Agnostic Boosting. *Preprint*. [ArXiv](https://arxiv.org/pdf/2503.09384)
+* da Cunha, A., Høgsgaard, M.M., Paudice, A., Sun, Y., 2025. Revisiting Agnostic Boosting. *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2503.09384)
 
 * da Cunha, A., Høgsgaard, M.M., Larsen, K.G., 2024. Optimal Parallelization of Boosting. (**Oral presentation**) In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2408.16653)
 
@@ -51,4 +51,4 @@ I took part on a *neuromorphic computing* project while working for [Hewlett Pac
 
 ## Peer review service
 
-* Reviewer for SEA21, AAAI22, ICLR22, NeurIPS23, STOC24, NeurIPS24, SODA25, ICLR25 (*invited*), AISTATS25 (*invited*)
+* Reviewer for SEA21, AAAI22, ICLR22, NeurIPS23, STOC24, NeurIPS24, SODA25, ICLR25 (*invited*), AISTATS25 (*invited*), NeurIPS25
