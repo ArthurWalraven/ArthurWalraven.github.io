@@ -46,7 +46,7 @@ I took part in a *neuromorphic computing* project while working at [Hewlett Pack
 
 * Ambrosi, J.C., Da Cunha, A.C.W., Cavalcante, J.R.A., Hewlett Packard Enterprise Development LP, 2021. *System for a flexible conductance crossbar*. U.S. Patent 11,200,948. [Google Patents](https://patents.google.com/patent/US11200948B1)
 
-* Aguiar, G.D.S., Silveira, F.P., Lee, E.S., Antunes, R.J.D.R., Souza, J.G.D.C.E., Foltin, M., Cavalcante, J.R.A., Leite, L., Cunha, A.C.W.D., Frazao, M.V., Trajano, A.F.R., Hewlett Packard Enterprise Development LP, 2022. *SYSTEM AND METHOD FOR PROCESSING CONVOLUTIONS ON CROSSBAR-BASED NEURAL NETWORK ACCELERATORS FOR INCREASED INFERENCE THROUGHPUT*. U.S. Patent Application 17/027,628. [Google Patents](https://patents.google.com/patent/US20220092393A1)
+* Aguiar, G.D.S., Silveira, F.P., Lee, E.S., Antunes, R.J.D.R., Souza, J.G.D.C.E., Foltin, M., Cavalcante, J.R.A., Leite, L., Cunha, A.C.W.D., Frazao, M.V., Trajano, A.F.R., Hewlett Packard Enterprise Development LP, 2022. *SYSTEM AND METHOD FOR PROCESSING CONVOLUTIONS ON CROSSBAR-BASED NEURAL NETWORK ACCELERATORS FOR INCREASED INFERENCE THROUGHPUT*. U.S. Patent 12,254,395 B2. [Google Patents](https://patents.google.com/patent/US12254395B2)
 
 
 ## Peer-review service
