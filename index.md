@@ -23,7 +23,7 @@ I took part in a *neuromorphic computing* project while working at [Hewlett Pack
 
 ## Publications
 
-* da Cunha, A., Høgsgaard, M.M., Paudice, A., Sun, Y., 2025. Revisiting Agnostic Boosting. *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2503.09384)
+* da Cunha, A., Høgsgaard, M.M., Paudice, A., Sun, Y., 2025. Revisiting Agnostic Boosting. In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2503.09384)
 
 * da Cunha, A., Høgsgaard, M.M., Larsen, K.G., 2024. Optimal Parallelization of Boosting. (**Oral presentation**) In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2408.16653)
 
@@ -31,7 +31,7 @@ I took part in a *neuromorphic computing* project while working at [Hewlett Pack
 
 * da Cunha, A., d'Amore, F., Natale, E., 2023. Convolutional neural networks contain structured strong lottery tickets. In *Conference on Neural Information Processing Systems (NeurIPS)*. [OpenReview](https://openreview.net/pdf?id=UqYrYB3dp5)
 
-* da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2023. Revisiting the Random Subset Sum problem. *European Symposium on Algorithms (ESA)*. [LIPIcs](https://drops.dagstuhl.de/opus/volltexte/2023/18690/pdf/LIPIcs-ESA-2023-37.pdf)
+* da Cunha, A.C.W., d'Amore, F., Giroire, F, Lesfari, H., Natale, E., Viennot, L., 2023. Revisiting the Random Subset Sum problem. In *European Symposium on Algorithms (ESA)*. [LIPIcs](https://drops.dagstuhl.de/opus/volltexte/2023/18690/pdf/LIPIcs-ESA-2023-37.pdf)
 
 * da Cunha, A., Natale, E., Viennot, L., 2022. Proving the Strong Lottery Ticket Hypothesis for Convolutional Neural Networks. In *International Conference on Learning Representations (ICLR)*. [OpenReview](https://openreview.net/pdf?id=Vjki79-619-)
 
