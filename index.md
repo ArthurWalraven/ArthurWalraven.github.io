@@ -23,7 +23,7 @@ I took part in a *neuromorphic computing* project while working at [Hewlett Pack
 
 ## Publications
 
-* da Cunha, A., Høgsgaard, M.M., Paudice, A., 2026. Sample-Near-Optimal Agnostic Boosting with Improved Running Time. *International Conference on Algorithmic Learning Theory (ALT)*. <!-- [OpenReview](https://openreview.net/pdf?id=pt6v6evstE) -->
+* da Cunha, A., Høgsgaard, M.M., Paudice, A., 2026. Sample-Near-Optimal Agnostic Boosting with Improved Running Time. *International Conference on Algorithmic Learning Theory (ALT)*. [ArXiv](https://arxiv.org/pdf/2601.11265)
 
 * da Cunha, A., Høgsgaard, M.M., Paudice, A., Sun, Y., 2025. Revisiting Agnostic Boosting. In *Conference on Neural Information Processing Systems (NeurIPS)*. [ArXiv](https://arxiv.org/pdf/2503.09384)
 
